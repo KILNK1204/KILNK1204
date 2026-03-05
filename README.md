@@ -40,7 +40,7 @@ Designed a low-latency decision agent with strict output constraints and reliabi
 
 ## Tech stack
 **Languages:** Python, Java, C/C++, JavaScript, Dart, SQL  
-**Frameworks/Tools:** Flutter, REST APIs, Git, MQTT, React (basic), Linux/dev tooling  
+**Frameworks/Tools:** Flutter, REST APIs, Git, MQTT, React, Linux/dev tooling  
 **Focus areas:** reliability, debugging, performance optimization, clean modular design
 
 ---
