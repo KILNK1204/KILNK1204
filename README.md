@@ -1,7 +1,7 @@
 # Hi, I'm Zhaoheng (Kevin) Li 👋
 
 MEng ECE @ University of Toronto • Lead Mobile Developer (Flutter/Android) • Systems + Embedded IoT + ML  
-📍 Toronto, Canada • 🌐 LinkedIn: https://www.linkedin.com/in/zhaoheng-li-646998265/ • ✉️ lzh2915317677@gmail.com
+Toronto, Canada • LinkedIn: https://www.linkedin.com/in/zhaoheng-li-646998265/ • lzh2915317677@gmail.com
 
 ---
 
@@ -19,15 +19,15 @@ Right now, I’m focused on **shipping high-quality product features**, improvin
 ---
 
 ## Featured projects
-### 🗑️ Intelligent Waste Bin (Embedded IoT + Cloud)
+### Intelligent Waste Bin (Embedded IoT + Cloud)
 Smart waste-sorting system using **ESP32-CAM + ESP8266 + Raspberry Pi + sensors/actuators**, with a web UI for live streaming, confidence display, and manual override.  
 **Tech:** C/C++, MQTT, REST, JavaScript, embedded devices
 
-### 🎥 Modular Video Codec (Python)
+### Modular Video Codec (Python)
 Built a modular encoder/decoder with **multi-reference prediction**, **variable block sizes + RD optimization**, **fractional motion estimation**, **fast search**, and **parallelism**.  
 Hit **real-time 720p @ 60 FPS** with strong reconstruction quality (SSIM).
 
-### 📈 Prompt-Engineered GPT Agents for QQQ Trading
+### Prompt-Engineered GPT Agents for QQQ Trading
 Designed a low-latency decision agent with strict output constraints and reliability improvements via prompt structure and multi-agent consensus.
 
 ---
