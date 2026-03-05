@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**KILNK1204/KILNK1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you sta# Hi, I'm Zhaoheng (Kevin) Li 👋
+# Hi, I'm Zhaoheng (Kevin) Li 👋
 
 MEng ECE @ University of Toronto • Lead Mobile Developer (Flutter/Android) • Systems + Embedded IoT + ML  
 📍 Toronto, Canada • 🌐 LinkedIn: https://www.linkedin.com/in/zhaoheng-li-646998265/ • ✉️ lzh2915317677@gmail.com
@@ -52,14 +47,4 @@ Designed a low-latency decision agent with strict output constraints and reliabi
 
 ## Let’s connect
 - LinkedIn: https://www.linkedin.com/in/zhaoheng-li-646998265/
-- Email: lzh2915317677@gmail.comrted:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email: lzh2915317677@gmail.com
