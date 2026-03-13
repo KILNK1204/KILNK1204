@@ -1,7 +1,7 @@
 # Hi, I'm Kevin Li 👋
 
 MEng ECE @ University of Toronto • Lead Mobile Developer (Flutter/Android) • Systems + Embedded IoT + ML  
-Toronto, Canada • LinkedIn: https://www.linkedin.com/in/zhaoheng-li-646998265/ • lzh2915317677@gmail.com
+Toronto, Canada • LinkedIn: https://www.linkedin.com/in/zhaoheng-li-646998265/ • lzh2915317677@gmail.com • https://zhaohengportfolio.vercel.app/
 
 ---
 
